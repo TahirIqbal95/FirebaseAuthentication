@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910190718540",
+    "firebase_url": "https://fir-authentication-89d4c.firebaseio.com",
+    "project_id": "fir-authentication-89d4c",
+    "storage_bucket": "fir-authentication-89d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910190718540:android:f5dd0a8f121ed8a6b3cee9",
+        "android_client_info": {
+          "package_name": "com.mejrabsoft.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910190718540-nhqc5n2jmnq9fhrpebnvj0op27jk8e86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mejrabsoft.firebaseauthentication",
+            "certificate_hash": "46a83a7a7eba041f00e8a6cfefdd58ff5eb76b23"
+          }
+        },
+        {
+          "client_id": "910190718540-sammak96l7ohil2kqf4ddm1oikr8ujlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGNaWX-ajPxKXyrwwK5nomvN6LZ4WozA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910190718540-sammak96l7ohil2kqf4ddm1oikr8ujlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
